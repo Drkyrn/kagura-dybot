@@ -12,10 +12,10 @@ global.APIKeys = {
 //---------( SETTING )---------//
 global.owner = ['6282137666455','6281282273655','6281290957514']
 global.premium = ['6282137666456']
-global.ownernomer = '6282137666456'
+global.ownernomer = '6282137666456''
 global.ownername = 'DrkYrn'
 global.botname = 'DYBOT'
-global.footer = 'DYBOT
+global.footer = 'DYBOT'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
