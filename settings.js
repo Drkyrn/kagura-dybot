@@ -3,10 +3,10 @@ const chalk = require('chalk')
 
 //---------( APIKEY )---------//
 global.APIs = {
-zenz: 'https://zenzapis.xyz',
+zenz: 'https://api-alphabot.herokuapp.com',
 }
 global.APIKeys = {
-'https://zenzapis.xyz': 'Your Key',
+'https://api-alphabot.herokuapp.com': 'Alphabot',
 }
 
 //---------( SETTING )---------//
